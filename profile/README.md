@@ -40,7 +40,6 @@ Or click **Use this template** on a starter:
 - [`phel-pdo`](https://github.com/phel-lang/phel-pdo): PDO wrapper for databases
 - [`phel-sql`](https://github.com/phel-lang/phel-sql): data-driven SQL DSL (HoneySQL-style)
 - [`phel-log`](https://github.com/phel-lang/phel-log): data-driven logging with PSR-3 / Monolog bridge
-- [`phel-schema`](https://github.com/phel-lang/phel-schema): schema validation (Zod-inspired)
 
 ## Built with Phel
 
